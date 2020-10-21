@@ -1,1 +1,2 @@
 # MotivationalTwitterBot
+The purpose of this bot's existence is to help inspire others to be motivated in accomplishing their goals. This twitter bot posts daily motivational tweets on it's own timeline and responds to users asking for someone to motivate them for a specific task. User's who come across this twitter page have the option to Opt-In to a (free) subscription of productivity tips, sent directly to their mentions once a week! 
